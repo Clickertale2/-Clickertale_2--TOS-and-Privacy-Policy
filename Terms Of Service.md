@@ -1,5 +1,6 @@
 # **Terms of Service**
 **Effective from**: 31/03/2025 (DD/MM/YYYY)
+
 **Author**: **-Clickertale_2- Industries**
 
 #### **IMPORTANT NOTICE**
