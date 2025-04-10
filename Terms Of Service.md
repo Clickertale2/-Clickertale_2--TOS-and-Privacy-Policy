@@ -13,7 +13,6 @@ This TOS applies to all works provided by **-Clickertale_2- Industries**, includ
 - Web-based tools or utilities.
 - Any related content or materials.
 By using or interacting with any of our work in any form, you agree to abide by these terms.
-
 #### **2. Definitions**
 - "Work" refers to all projects, games, extensions, assets, code, and any other content or tools provided by us.
 - "User" refers to any person or entity who uses, downloads, interacts with, or distributes our work.
