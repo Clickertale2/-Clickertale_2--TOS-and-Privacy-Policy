@@ -161,3 +161,18 @@ To be eligible for conditional reinstatement, a collaborator must:
 
 We reserve the right to deny any reinstatement request without explanation. Collaborators who are reinstated will be monitored more closely, and any attempt to assist banned users in the future will result in a lifetime ban with no eligibility for return.
 Conditional reinstatement is available only to collaborators, and any violation after reinstatement will result in a permanent ban with no eligibility for future re-entry. Banned users themselves are never eligible for reinstatement. Once banned, always banned.
+
+#### **17. Open-Source License for TurboWarp Extensions**
+Certain works provided by **-Clickertale_2- Industries**, such as TurboWarp extensions, are governed by specific open-source licenses, including but not limited to the MIT License and Mozilla Public License 2.0 (MPL-2.0). These works may be freely used, modified, and redistributed according to the terms of these licenses, which are distinct from the terms of this TOS.
+
+#### **17.1 MIT and MPL-2.0 License Rights**
+Users are granted the rights to use, modify, and redistribute these works under the terms of the MIT or MPL-2.0 license, but they must follow the rules outlined in the respective license (e.g., attribution, inclusion of the original license). The permissions granted in these open-source licenses supersede the restrictions in this TOS regarding redistribution and modification of the code.
+
+#### **17.2 Interaction with Open-Source Works**
+While the open-source licenses govern the rights to use, modify, and distribute TurboWarp extensions and code, this TOS applies to all other aspects of interacting with our work, such as games, projects, assets, and non-code content. Users must follow the behavioral and usage rules set out in this TOS when interacting with our works, regardless of the licensing terms that apply to the code.
+
+#### **17.3 Rights to Non-Open-Source Works**
+Except for the open-source TurboWarp extensions, all other works provided by -Clickertale_2- Industries, including but not limited to games, projects, and assets, are not covered by open-source licenses and are subject to the full terms of this TOS. You may not modify, redistribute, or claim ownership of these works without explicit permission.
+
+#### **17.4 Attribution for Open-Source Extensions**
+If you modify or distribute any of our TurboWarp extensions under an open-source license, you are required to give appropriate credit to the original author and include the full text of the relevant open-source license (MIT, MPL-2.0) in your work. This obligation is in addition to the requirements of this TOS.
