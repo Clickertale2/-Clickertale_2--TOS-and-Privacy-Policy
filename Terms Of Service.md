@@ -1,6 +1,7 @@
 # **Terms of Service**
 **Effective from**: 31/03/2025 (DD/MM/YYYY)
 **Author**: -Clickertale_2- Industries
+
 #### **IMPORTANT NOTICE**
 By downloading, using, accessing, remixing, or interacting with any projects, games, extensions, assets, or any other works created by **-Clickertale_2- Industries** ("we", "us", or "our"), you agree to be bound by this Terms of Service (TOS). If you do not agree to these terms, do not use or interact with any of our work.
 
