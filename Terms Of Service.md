@@ -12,7 +12,6 @@ This TOS applies to all works provided by **-Clickertale_2- Industries**, includ
 - Assets (images, sounds, scripts, etc.).
 - Web-based tools or utilities.
 - Any related content or materials.
-
 By using or interacting with any of our work in any form, you agree to abide by these terms.
 
 #### **2. Definitions**
