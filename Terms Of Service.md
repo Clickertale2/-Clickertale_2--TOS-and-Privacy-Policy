@@ -162,7 +162,7 @@ We reserve the right to deny any reinstatement request without explanation. Coll
 Conditional reinstatement is available only to collaborators, and any violation after reinstatement will result in a permanent ban with no eligibility for future re-entry. Banned users themselves are never eligible for reinstatement. Once banned, always banned.
 
 #### **17. Open-Source License for TurboWarp Extensions**
-Certain works provided by **-Clickertale_2- Industries**, such as TurboWarp extensions, are governed by specific open-source licenses, including but not limited to the MIT License and Mozilla Public License 2.0 (MPL-2.0). These works may be freely used, modified, and redistributed according to the terms of these licenses, which are distinct from the terms of this TOS.
+Certain works provided by **-Clickertale_2- Industries**, such as TurboWarp extensions, are governed by specific open-source licenses, including but not limited to the MIT License and Mozilla Public License 2.0 (MPL-2.0). These works may be freely used, modified, and redistributed according to the terms of these licenses, which are distinct from the terms of this TOS but my also be similar to what si stated in this TOS.
 
 #### **17.1 MIT and MPL-2.0 License Rights**
 Users are granted the rights to use, modify, and redistribute these works under the terms of the MIT or MPL-2.0 license, but they must follow the rules outlined in the respective license (e.g., attribution, inclusion of the original license). The permissions granted in these open-source licenses supersede the restrictions in this TOS regarding redistribution and modification of the code.
