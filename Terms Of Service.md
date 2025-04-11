@@ -123,15 +123,14 @@ This includes:
 
 No exceptions.
 
-#### **16.2 Applies to All Our Work**
-This ban policy applies to everything we make, including:
+16.2 Applies to All Our Work
+This ban policy applies to everything we create, including, but not limited to:
 - Projects.
 - Games.
 - Extensions.
 - Assets.
 - Collaborations with others and their work.
-
-If you violate the ban in any area, you are banned from everything including stuff that is not listed here.
+Any violation of the ban in any of these areas will result in a ban from all other associated work, including new creations or projects that may be developed in the future.
 
 #### **16.3 Enforcement Measures**
 We may:
@@ -161,8 +160,8 @@ To be eligible for conditional reinstatement, a collaborator must:
 We reserve the right to deny any reinstatement request without explanation. Collaborators who are reinstated will be monitored more closely, and any attempt to assist banned users in the future will result in a lifetime ban with no eligibility for return.
 Conditional reinstatement is available only to collaborators, and any violation after reinstatement will result in a permanent ban with no eligibility for future re-entry. Banned users themselves are never eligible for reinstatement. Once banned, always banned.
 
-#### **17. Open-Source License for TurboWarp Extensions**
-Certain works provided by **-Clickertale_2- Industries**, such as TurboWarp extensions, are governed by specific open-source licenses, including but not limited to the MIT License and Mozilla Public License 2.0 (MPL-2.0). These works may be freely used, modified, and redistributed according to the terms of these licenses, which are distinct from the terms of this TOS but my also be similar to what si stated in this TOS.
+#### 17. **Open-Source License for TurboWarp Extensions**
+Certain works provided by -Clickertale_2- Industries, such as TurboWarp extensions, are governed by specific open-source licenses, including but not limited to the MIT License and Mozilla Public License 2.0 (MPL-2.0). These works may be freely used, modified, and redistributed according to the terms of these open-source licenses. However, the terms of these open-source licenses are distinct from the terms of this TOS and govern only the technical aspects of the work (such as code redistribution and modification). Usage and behavior outside of these terms (including but not limited to ethical usage, distribution, and collaboration) are still subject to the full Terms of Service, which may include provisions similar to those found in the open-source licenses.
 
 #### **17.1 MIT and MPL-2.0 License Rights**
 Users are granted the rights to use, modify, and redistribute these works under the terms of the MIT or MPL-2.0 license, but they must follow the rules outlined in the respective license (e.g., attribution, inclusion of the original license). The permissions granted in these open-source licenses supersede the restrictions in this TOS regarding redistribution and modification of the code.
